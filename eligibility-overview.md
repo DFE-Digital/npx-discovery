@@ -64,11 +64,6 @@
             OR
             institution has eligible establishment type AND on pp50 list
         )
-    OR employment type is one of # funding subject to review
-        * Local authority virtual school
-        * employment type is Hospital school
-        * employment type is Young offenders institution
-        * employment type is Local authority supply teacher
     OR # subject to review
         Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-early-years-leadership`
@@ -84,11 +79,6 @@
         At a school, Academy Trust or 16-19 educational setting
         AND
         institution has eligible establishment type
-    OR employment type is one of # funding subject to review
-        * Local authority virtual school
-        * employment type is Hospital school
-        * employment type is Young offenders institution
-        * employment type is Local authority supply teacher
     OR # subject to review
         Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-teaching`
@@ -104,22 +94,38 @@
             OR
             institution has eligible establishment type AND on pp50 list
         )
-    OR employment type is one of # funding subject to review
-        * Local authority virtual school
-        * employment type is Hospital school
-        * employment type is Young offenders institution
-        * employment type is Local authority supply teacher
     OR # subject to review
         Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-behaviour-culture`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have previously received funding
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-teaching-development`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have previously received funding
-  - if you work in a school on [eligibility list] **and** are taking on the
-    role of lead mentor for an ITT provider
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR
+        employment type is one "lead mentor for itt provider"
+        AND
+        provider is on approved list
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-literacy`
   - must be in England
   - must not have previously received funding
