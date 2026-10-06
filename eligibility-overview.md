@@ -23,57 +23,54 @@
   - cohort be capped funding or fully funded
   - must be in England
   - must not have previously received funding for this course
-  - (
-        early years or childcare work setting
-        AND
-        at a school
-        AND
-        school is a local authority nursery
-    )
+  - At a school which is a local authority nursery
     OR
-    (
-        (
-            work setting is School 
-            OR 
-            work setting is Academy Trust 
-            OR 
-            work setting is 16-19 educational setting
-        ) 
+        At a school, Academy Trust or 16-19 educational setting
         AND
-        (
-            institution is on RISE list 
-            OR 
-            is on eligible establishments list
-        )
-    )
-    OR # (funding subject to review)
-    (
-        (Another setting)
-        AND
-        (
-            employment type is Local authority virtual school
-            OR
-            employment type is Hospital school
-            OR
-            employment type is Young offenders institution
-            OR
-            employment type is Local authority supply teacher   
-        )
-    )
-    OR # (funding subject to review)
-    (
-        Other setting
-        AND
-        Referred by RTTA
-    )
+        institution has eligible establishment type OR is on RISE list
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-headship`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have previously received funding
-  - *****
+  - must not have previously received funding for this course
+  - At a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-executive-leadership`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have previously received funding
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - At a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-early-years-leadership`
   - must be in England
   - must not have previously received funding
