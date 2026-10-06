@@ -23,7 +23,7 @@
   - cohort be capped funding or fully funded
   - must be in England
   - must not have previously received funding for this course
-  - At a school which is a local authority nursery
+  - Working in childcare at a school which is a local authority nursery
     OR
         At a school, Academy Trust or 16-19 educational setting
         AND
@@ -55,7 +55,7 @@
   - cohort be capped funding or fully funded
   - must be in England
   - must not have previously received funding for this course
-  - At a school which is a local authority nursery
+  - Working in childcare at a school which is a local authority nursery
     OR
         At a school, Academy Trust or 16-19 educational setting
         AND
@@ -72,9 +72,25 @@
     OR # subject to review
         Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-early-years-leadership`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have previously received funding
-  - either a childminder on the childminders eligibility list or in a childcare setting but not a childminder 
+  - must not have previously received funding for this course
+  - (
+        Working in childcare
+        AND
+        (nursery type is something other than childminder or institution is on childminders list)
+    )
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-teaching`
   - must be in England
   - must not have previously received funding
