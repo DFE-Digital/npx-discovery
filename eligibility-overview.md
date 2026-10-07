@@ -11,55 +11,181 @@
 * `npq-leading-teaching-development`
 * `npq-leading-literacy`
 * `npq-leading-primary-mathematics`
+  - one year of primary head teacher or demonstration equivalent knowledge
 * `npq-additional-support-offer`
 * `npq-early-headship-coaching-offer`
   - must have completed `npq-headship`
-  - must be a headteacher
 * `npq-senco`
 
 ## Funding eligibility
 
 * `npq-senior-leadership`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-headship`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
+  - must not have previously received funding for this course
+  - At a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-executive-leadership`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-early-years-leadership`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
+  - must not have previously received funding for this course
+  - (
+        Working in childcare
+        AND
+        (nursery type is something other than childminder or institution is on childminders list)
+    )
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-teaching`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-behaviour-culture`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-teaching-development`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
-  - if you work in a school on [eligibility list] **and** are taking on the
-    role of lead mentor for an ITT provider
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR
+        employment type is one "lead mentor for itt provider"
+        AND
+        provider is on approved list
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-literacy`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-leading-primary-mathematics`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
-  - if you work in a school on [eligibility list]
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        (
+            institution is on RISE list
+            OR
+            institution has eligible establishment type AND on pp50 list
+        )
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-additional-support-offer`
-  - must be in England
-  - must not have already completed this course
+  - NO LONGER OFFERED
 * `npq-early-headship-coaching-offer`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must be in the first 5 years of headship
-  - must not have already completed this course
+  - must not have previously received funding for this course
+  - (
+        Working in childcare
+        AND
+        (nursery type is something other than childminder or institution is on childminders list)
+    )
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
 * `npq-senco`
+  - cohort be capped funding or fully funded
   - must be in England
-  - must not have already completed this course
+  - must not have previously received funding for this course
+  - Working in childcare at a school which is a local authority nursery
+    OR
+        At a school, Academy Trust or 16-19 educational setting
+        AND
+        institution has eligible establishment type OR is on RISE list
+    OR employment type is one of # funding subject to review
+        * Local authority virtual school
+        * employment type is Hospital school
+        * employment type is Young offenders institution
+        * employment type is Local authority supply teacher
+    OR # subject to review
+        Other work setting AND Referred by RTTA (funding is subject to review)
